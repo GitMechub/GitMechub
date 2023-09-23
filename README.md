@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Welcome to my GitHub page!
+Here, I share some codes to facilitate the development of projects related to mechanical engineering.
+---
+Bem-vindo(a) à minha página no GitHub! Aqui, compartilho alguns códigos com o objetivo de facilitar a elaboração de projetos relacionados à engenharia mecânica.
+--
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Mechub?sub_confirmation=1)
 <!--
 **GitMechub/GitMechub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
